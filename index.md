@@ -1,3 +1,3 @@
-[About Me](about.html)
+{% include menu.md %}
 # Welcome
 Welcome to my test page
