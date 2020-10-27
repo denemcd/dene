@@ -1,3 +1,3 @@
-.[About Me](about.html)
+[About Me](about.html)
 # Welcome
 Welcome to my test page
